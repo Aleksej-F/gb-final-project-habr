@@ -1,14 +1,17 @@
 import React from 'react';
 import {Link} from "react-router-dom";
-import style from './Layout.scss'
+import  './Layout.scss'
 
 export const Layout = () => {
   return (
-    <div className="App">
-      <div className={style.wrapper}>
+    <div className="cont">
+      <div className="wrapper">
         
         <ul className="menu">
           {/* <img src="src/img/log1.jpg"></img> */}
+          <li>
+            <Link to="/">Все</Link>
+          </li>
           <li>
             <Link to="/design">Дизайн</Link>
           </li>
