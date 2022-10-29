@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gb-final-project-habr/static/css/main.46ed6490.css",
+    "main.js": "/gb-final-project-habr/static/js/main.d4f1eb25.js",
+    "index.html": "/gb-final-project-habr/index.html",
+    "main.46ed6490.css.map": "/gb-final-project-habr/static/css/main.46ed6490.css.map",
+    "main.d4f1eb25.js.map": "/gb-final-project-habr/static/js/main.d4f1eb25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46ed6490.css",
+    "static/js/main.d4f1eb25.js"
+  ]
+}
